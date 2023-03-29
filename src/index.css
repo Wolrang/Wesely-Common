@@ -12,6 +12,7 @@ code {
     monospace;
 }
 
+/* 폰트파일연결 */
 @font-face {
 	font-family: "noto";
 	src: url(./assets/fonts/Noto_Sans_KR/NotoSansKR-Light.otf);
